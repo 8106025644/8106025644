@@ -1,0 +1,30 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+int
+{
+{
+printf("sign-up %d /n");
+scanf("sign-up &a /n");
+}
+{
+printf("sign-in %d /n");
+scanf("sign-up &a /n");
+}
+{
+printf("contact name %d /n");
+scanf("contact name &a /n");
+}
+{
+printf("contact number %d /n");
+scanf("contact number &a /n");
+}
+{
+printf("contact email %d /n");
+scanf("contact email &a /n");
+}
+{
+printf("save %d /n");
+scanf("save &a /n");
+}
+}
